@@ -1,0 +1,16 @@
+C:\Users\lucas.aalves15\source\repos\OvniManager2000\OvniManager2000\bin\Debug\OvniManager2000.exe.config
+C:\Users\lucas.aalves15\source\repos\OvniManager2000\OvniManager2000\bin\Debug\OvniManager2000.exe
+C:\Users\lucas.aalves15\source\repos\OvniManager2000\OvniManager2000\bin\Debug\OvniManager2000.pdb
+C:\Users\lucas.aalves15\source\repos\OvniManager2000\OvniManager2000\obj\Debug\OvniManager2000.csproj.AssemblyReference.cache
+C:\Users\lucas.aalves15\source\repos\OvniManager2000\OvniManager2000\obj\Debug\OvniManager2000.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas.aalves15\source\repos\OvniManager2000\OvniManager2000\obj\Debug\OvniManager2000.Form1.resources
+C:\Users\lucas.aalves15\source\repos\OvniManager2000\OvniManager2000\obj\Debug\OvniManager2000.Properties.Resources.resources
+C:\Users\lucas.aalves15\source\repos\OvniManager2000\OvniManager2000\obj\Debug\OvniManager2000.csproj.GenerateResource.cache
+C:\Users\lucas.aalves15\source\repos\OvniManager2000\OvniManager2000\obj\Debug\OvniManager2000.csproj.CoreCompileInputs.cache
+C:\Users\lucas.aalves15\source\repos\OvniManager2000\OvniManager2000\obj\Debug\OvniManager2000.exe
+C:\Users\lucas.aalves15\source\repos\OvniManager2000\OvniManager2000\obj\Debug\OvniManager2000.pdb
+C:\Users\lucas.aalves15\source\repos\OvniManager2000\OvniManager2000\obj\Debug\OvniManager2000.Inicializador.resources
+C:\Users\lucas.aalves15\source\repos\OvniManager2000\OvniManager2000\bin\Debug\BibliotecaOVNI.dll
+C:\Users\lucas.aalves15\source\repos\OvniManager2000\OvniManager2000\bin\Debug\BibliotecaOVNI.pdb
+C:\Users\lucas.aalves15\source\repos\OvniManager2000\OvniManager2000\obj\Debug\OvniManager2000.csproj.CopyComplete
+C:\Users\lucas.aalves15\source\repos\OvniManager2000\OvniManager2000\obj\Debug\OvniManager2000.Painel.resources
